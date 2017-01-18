@@ -1,6 +1,6 @@
 # Non-default packages that must be downloaded from GitHub
-##devtools::install_github('rstudio/shinyapps')
-##devtools::install_github('rstudio/DT')
+#devtools::install_github('rstudio/shinyapps')
+#devtools::install_github('rstudio/DT')
 
 # Load required packages
 library(shiny)
@@ -9,7 +9,7 @@ library(ggplot2)
 library(mapproj)
 library(devtools)
 library(DT)
-library(shinyapps)
+#library(shinyapps)
 library(RColorBrewer)
 library(gridExtra)
 
